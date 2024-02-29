@@ -1,2 +1,2 @@
-# VirtualWork-Data-Analyst-at-STC-Misk
+# Virtual Work: Data Analyst at STC
 This repository contains all the tasks I completed during the virtual work experience as a Data Analyst at STC offered by Misk hub (2024).
