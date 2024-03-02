@@ -7,6 +7,8 @@
 
 ----------------------------
 * ### The third task:
+ The objective of the task is to Build a simple and easy model that empowers decision-makers to predict the expected number of views for customers in the next two months and identify potential peak times by using the provided dataset of the date and the total watch time in hours.
+
 
 
 # ![image](https://github.com/Norah-Alsalhi/VirtualWork-Data-Analyst-at-STC-Misk/assets/109601713/e209dda4-1e29-4fd5-8907-e8dfc0f27838)
