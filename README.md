@@ -8,6 +8,8 @@
 
 ----------------------------
 * ### The third task:
+  The objective of the task is to Build a recommendation model based on the viewership of other users with similar preferences to enrich the viewing experience on STC TV then display the top 5 Recommendations for People Who Watched Moana.
+
 
 
 
